@@ -10,7 +10,7 @@ This project is a comprehensive PowerBI visualization dashboard designed to prov
 # Dataset
 The dataset used in this project is sourced from Kaggle. It includes anonymized information on data professionals from various industries and regions.
 
-How to Use
+# How to Use?
 * Clone the Repository: Clone this repository to your local machine using git clone https://github.com/SmitMalde/Power-BI-Data-Professional-Survey-Dashboard.git.
 * Open PowerBI: Open the PowerBI Desktop application.
 * Load the Dataset: Load the provided dataset into PowerBI.
