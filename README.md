@@ -1,5 +1,5 @@
 # Power-BI-Data-Professional-Survey-Dashboard
-This project is a comprehensive PowerBI visualization dashboard designed to provide insightful analytics on a dataset of data professionals. The dataset includes various attributes such as job titles, salaries, locations, years of experience, education levels, skills, and more. The goal of this dashboard is to enable users to explore and understand trends, distributions, and correlations within the data professional community.
+This project is a comprehensive PowerBI visualization dashboard designed to provide insightful analytics on a dataset of data professionals. The dataset includes various attributes such as job titles, salaries, locations, satisfaction levels, and more. The goal of this dashboard is to enable users to explore and understand trends, distributions, and correlations within the data professional community.
 
 # Features
 * Interactive Visualizations: A set of dynamic and interactive charts, graphs, and maps that allow users to filter and drill down into specific aspects of the data.
